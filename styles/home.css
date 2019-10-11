@@ -1,0 +1,63 @@
+
+#logo{
+    margin: 5px;
+    padding: 5px;
+    width: 300px;
+
+}
+header{
+    border-bottom:1px solid #7ac14e;
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+#menu{
+  border-top: 1px solid #7ac14e;
+}
+
+#Membros{
+  text-align: center;
+  font-size: 30px;
+  font-family: "Georgia", Times, serif;
+  font-weight: bold;
+  color: #172f0e;
+  
+}
+
+.circle {
+    background-color: #aaa;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    border: 3px solid #7ac14e;
+  }
+  .circle:hover{
+
+    border: 3px solid #172f0e;
+  }
+  
+  .circle img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  #corpo{
+      	
+    /*background: #FFFFFF url("../images/logo_inidivual.png");
+
+    background-size: 50px; */
+
+  }
+  #rodape{
+    text-align: center;
+    border-top:  1px solid #7ac14e;
+  }
+  #rodape img {
+    width: 400px;
+  }
